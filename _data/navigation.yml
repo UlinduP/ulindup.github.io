@@ -15,8 +15,8 @@ main:
   - title: "Curriculum Vitae"
     url: /files/Ulindu_Resume.pdf
 
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
     
   # - title: "Guide"
   #   url: /markdown/
