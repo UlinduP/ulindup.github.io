@@ -14,5 +14,9 @@ redirect_from:
 
 ## News
 - June 2024, One paper accepted at IECON2024.
-- Oct 2024, One paper accepted at TECON2024.
+- Oct. 2024, One paper accepted at TENCON2024.
+
+## Publications
+- Nov. 2024, Video Summarisation with Incident and Context Information using Generative AI, IECON 2024
+- Dec. 2024, Large Language Models for Video Surveillance Applications, TENCON 2024
 
