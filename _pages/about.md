@@ -17,6 +17,6 @@ redirect_from:
 - Oct. 2024, One paper accepted at TENCON2024.
 
 ## Publications
-- Nov. 2024, Video Summarisation with Incident & Context Information using GenAI, IECON 2024
+- Nov. 2024, Video Summarisation with Incident and Context Information using Generative AI, IECON 2024
 - Dec. 2024, Large Language Models for Video Surveillance Applications, TENCON 2024
 
