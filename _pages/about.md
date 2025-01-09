@@ -13,6 +13,7 @@ redirect_from:
 - Interested in **Computer Vision, Natural Language Processing and Machine Learning**.
 
 ## News
+- Jan. 2025, [Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation](https://arxiv.org/abs/2501.04696) is now on arxiv.
 - June 2024, One paper accepted at IECON2024.
 - Oct. 2024, One paper accepted at TENCON2024.
 
